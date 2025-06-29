@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akram</h1>
 <h3 align="center">Innovating at the edge of AI, code, and cyber defense.</h3>
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akramz1&mode=snake)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akramz1&label=Profile%20views&color=0e75b6&style=flat" alt="akramz1" />
 </p>
