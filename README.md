@@ -1,16 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akram</h1>
-<h3 align="center">Innovating at the edge of AI, code, and cyber defense.</h3>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akramz1&label=Profile%20views&color=0e75b6&style=flat" alt="akramz1" />
-</p>
-
----
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-tarek-663167263/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%23121011.svg?style=flat&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/akramtarek231)
 
 ---
 
@@ -56,5 +45,20 @@
 ![](https://github-contributor-stats.vercel.app/api?username=akramz1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-tarek-663167263/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23121011.svg?style=flat&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/akramtarek231)
+
+---
+<div align=center>
+
+![snake gif](https://github.com/Akramz1/Akramz1/blob/output/github-snake-dark.svg)
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akramz1&label=Profile%20views&color=0e75b6&style=flat" alt="akramz1" />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=akramz1&icon=2&color=0)](https://visitcount.itsvg.in)
