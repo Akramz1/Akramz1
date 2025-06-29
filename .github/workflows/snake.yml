@@ -1,20 +1,12 @@
 name: GitHub Snake Game
 
-
+permissions:
+  contents: write  # ✅ Give write access to GitHub Actions bot
 
 on:
-
-  # Schedule the workflow to run daily at midnight UTC
-
   schedule:
-
-    - cron: "0 0 * * *"
-
-
-
-  # Allow manual triggering of the workflow
-
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # ✅ Run every day at midnight UTC
+  workflow_dispatch:      # ✅ Allow manual trigger
 
 
 
