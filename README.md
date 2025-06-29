@@ -57,5 +57,4 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=akramz1&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akramz1&mode=snake)
